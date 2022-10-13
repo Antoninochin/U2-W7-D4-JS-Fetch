@@ -1,0 +1,22 @@
+{
+  "name": "u2-w7-d4-js-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:server": " node ./server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antoninochin/U2-W7-D4-JS-Fetch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antoninochin/U2-W7-D4-JS-Fetch/issues"
+  },
+  "homepage": "https://github.com/Antoninochin/U2-W7-D4-JS-Fetch#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
