@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Antoninochin/U2-W7-D4-JS-Fetch#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   }
 }
